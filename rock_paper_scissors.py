@@ -1,5 +1,4 @@
 import random
-import sys
 
 while True:
     # main program
